@@ -1,3 +1,6 @@
 body {
-  background-color:silver
+  background-color:silver;
+  display: flex;
+  flex-flow: wrap;
+  margin: 1%;
 }
